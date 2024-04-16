@@ -1,4 +1,4 @@
-# Tugas Data Mining: Visualisasi & Algoritma Naive Bayes
+# POSTTEST 1 - Data Mining: Visualisasi & Algoritma Naive Bayes
 
 ## Deskripsi Proyek
 Proyek ini mencakup dua jenis tugas: visualisasi data dan implementasi algoritma Naive Bayes. Tugas visualisasi melibatkan analisis dan representasi visual terhadap dataset "ChurnBank.csv" yang tersedia dalam repositori [Data Mining Course](https://github.com/fnikolas-r/Data-Mining-Course/blob/main/Pertemuan%202/ChurnBank.csv). Sementara itu, implementasi algoritma Naive Bayes digunakan untuk klasifikasi data pelanggan berdasarkan atribut tertentu.
