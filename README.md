@@ -22,3 +22,5 @@ Algoritma Naive Bayes digunakan untuk klasifikasi data pelanggan berdasarkan atr
 2. Instal library seaborn dengan menjalankan perintah `pip install seaborn`.
 3. Jalankan script visualisasi untuk melihat hasil visualisasi data.
 4. Ikuti langkah-langkah dalam script implementasi Naive Bayes untuk melakukan klasifikasi data.
+
+**[Link Google Colab](https://colab.research.google.com/drive/19D6m3NKF5RDmpDQ5ofMZDbb0WN8jXGr4)**
